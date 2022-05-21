@@ -6,4 +6,8 @@ public class TestController {
     public void t1(){
         System.out.println("f1");
     }
+
+    public void t2(){
+
+    }
 }
