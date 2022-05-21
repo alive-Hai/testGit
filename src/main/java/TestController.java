@@ -4,6 +4,6 @@ public class TestController {
     }
 
     public void t2(){
-
+        System.out.println("f11");
     }
 }
